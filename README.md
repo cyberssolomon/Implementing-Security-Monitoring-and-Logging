@@ -87,15 +87,15 @@ Show the ICMP alerts in the Snort Active Log:  <br/>
 
 <p align="center">
 Show the edited rsyslog.conf file: <br/>
-<img src="https://i.imgur.com/q3RvHJ9.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/q3RvHJ9.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the failed login attempts:  <br/>
-<img src="https://i.imgur.com/S0K9jcA.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/S0K9jcA.png" height="80%" width="80%" alt="Section 2 Steps"/>
 <br />
 <br />
 Show the last 10 log messages: <br/>
-<img src="https://i.imgur.com/y8CNavL.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/y8CNavL.png" height="80%" width="80%" alt="Section 2 Steps"/>
 
 
  <h2>Monitor File Integrity with Tripwire:</h2>
@@ -111,7 +111,7 @@ Show the last 10 log messages: <br/>
 
 <p align="center">
 Show the Object Summary section for the Tripwire report: <br/>
-<img src="https://i.imgur.com/KapOHzi.png" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/KapOHzi.png" height="80%" width="80%" alt="Section 2 Steps"/>
 
 
 
