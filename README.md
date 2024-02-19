@@ -19,7 +19,7 @@
 
  
 <h2>Description</h2>
-Project consists of exploring tools and techniques that serve dofferent monitoring and loggin needs: Windows Event Viewer, Intrusion Detection System on a pfSense firewall, and the log files in a Linux environment.
+Project consists of exploring tools and techniques that serve dIfferent monitoring and loggin needs: Windows Event Viewer, Intrusion Detection System on a pfSense firewall, and the log files in a Linux environment.
 <br />
 
 ### Section 1
@@ -35,7 +35,7 @@ Project consists of exploring tools and techniques that serve dofferent monitori
 
 <p align="center">
 Show the Security Event Properties dialog box on the vWorkstation: <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/8ENsuLm.png" height="80%" width="80%" alt="Section 1 Steps"/>
 
  <h2>Monitor Network Activity with Snort:</h2>
 
@@ -47,19 +47,19 @@ Show the Security Event Properties dialog box on the vWorkstation: <br/>
 
 <p align="center">
 Show the updated Pass Lists page: <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/fBQVGuu.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the active Snort status on the LAN interface:  <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/ujNc3i2.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the successful ping results:  <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/P4JoBKe.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the ICMP alerts in the Snort Active Log:  <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/Jow0xZi.png" height="80%" width="80%" alt="Section 1 Steps"/>
 
 
 
@@ -87,15 +87,15 @@ Show the ICMP alerts in the Snort Active Log:  <br/>
 
 <p align="center">
 Show the edited rsyslog.conf file: <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/q3RvHJ9.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the failed login attempts:  <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/S0K9jcA.png" height="80%" width="80%" alt="Section 1 Steps"/>
 <br />
 <br />
 Show the last 10 log messages: <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/y8CNavL.png" height="80%" width="80%" alt="Section 1 Steps"/>
 
 
  <h2>Monitor File Integrity with Tripwire:</h2>
@@ -111,7 +111,7 @@ Show the last 10 log messages: <br/>
 
 <p align="center">
 Show the Object Summary section for the Tripwire report: <br/>
-<img src="" height="80%" width="80%" alt="Section 1 Steps"/>
+<img src="https://i.imgur.com/KapOHzi.png" height="80%" width="80%" alt="Section 1 Steps"/>
 
 
 
